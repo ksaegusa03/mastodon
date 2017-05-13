@@ -44,3 +44,5 @@ redis
 # Ignore vim files
 *~
 *.swp
+# Log
+*.log

@@ -392,6 +392,7 @@
   overflow: hidden;
   white-space: pre-wrap;
   overflow-x: auto;
+  overflow-y: hidden;
 
   .emojione {
     width: 18px;
@@ -441,6 +442,9 @@
       text-decoration: none;
     }
   }
+ .MathJax_Display {
+      overflow-x: auto;
+      overflow-y: hidden;
 }
 
 a.status__content__spoiler-link {
@@ -454,6 +458,10 @@ a.status__content__spoiler-link {
   line-height: inherit;
 }
 
+.MathJax_Display {
+    overflow-x: auto;
+}
+ 
 .status__prepend-icon-wrapper {
   left: -26px;
   position: absolute;
