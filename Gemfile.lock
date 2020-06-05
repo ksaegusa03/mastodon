@@ -483,7 +483,7 @@ GEM
       hashdiff
     websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.2)
+    websocket-extensions (0.1.5)
     whatlanguage (1.0.6)
     xpath (2.0.0)
       nokogiri (~> 1.3)
